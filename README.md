@@ -1,4 +1,4 @@
 casperjs
 ========
 
-CasperJS binaries to work with Packagist
+CasperJS binaries to work with Packagist.
